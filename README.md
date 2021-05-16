@@ -20,9 +20,9 @@
 ### Where you can find me:
 
 <a href="https://www.linkedin.com/in/maatheusgois/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></code>
 </a>
 
 <a href="mailto:matheusgoislimasilva@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /></code>
 </a>
