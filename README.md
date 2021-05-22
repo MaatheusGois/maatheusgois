@@ -2,7 +2,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Matheus Gois, <b>iOS Developer</b> on <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Btg-logo-blue.svg" alt="BTG" />
+  I'm Matheus Gois, <b>iOS Developer</b> on <img width="34" src="https://user-images.githubusercontent.com/31082311/119235353-74e18000-bb08-11eb-85b8-7d550be357b2.png" alt="BTG" />
   I'm experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 </p>
 
