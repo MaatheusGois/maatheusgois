@@ -1,6 +1,6 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/31082311?s=400&u=f4c6fc5bea65e3924ee2c3750d38e1c4bbf661f2&v=4"  />
+<!-- <img align="left" height="150" src="https://avatars.githubusercontent.com/u/31082311?s=400&u=f4c6fc5bea65e3924ee2c3750d38e1c4bbf661f2&v=4"  /> -->
 
 ### Welcome to my page!
 <p>
